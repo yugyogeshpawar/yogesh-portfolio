@@ -23,19 +23,18 @@ const About = () => {
               </div>
               <div className="about-text">
                 <h3>
-                  {`I'm`} a Freelancer Front-end Developer with over 3 years of
-                  experience.{" "}
+                  {`I'm`} a DevOps Engineer with over 4 years of experience.{" "}
                 </h3>
                 <p>
-                  {`I'm`} a Freelancer Front-end Developer with over 3 years of
-                  experience. {`I'm`} from San Francisco. I code and create web
-                  elements for amazing people around the world. I like work with
-                  new people. New people new Experiences.
+                  I am a DevOps Engineer with a passion for Kubernetes, CI/CD
+                  pipelines, and automation. I have 4 years of experience in
+                  this field, and I am always looking for new opportunities to
+                  improve and enhance my skills.
                 </p>
                 <div className="row">
                   <div className="col-auto">
                     <div className="media align-items-center">
-                      <span className="count">5k</span>
+                      <span className="count">20+</span>
                       <div className="media-body">
                         Projects <br />
                         Completed.
@@ -44,7 +43,7 @@ const About = () => {
                   </div>
                   <div className="col-auto">
                     <div className="media align-items-center">
-                      <span className="count">3k</span>
+                      <span className="count">20+</span>
                       <div className="media-body">
                         Satisfied <br />
                         Clients.
@@ -53,11 +52,14 @@ const About = () => {
                   </div>
                 </div>
                 <div className="btn-bar">
-                  <a className="px-btn px-btn-theme" href="#">
+                  <a className="px-btn px-btn-theme" href="tel:+917000426094">
                     <span>Contact Me</span>
                   </a>
-                  <a className="px-btn px-btn-theme" href="#">
-                    <span>Portfolio</span>
+                  <a
+                    className="px-btn px-btn-theme"
+                    href="mailto:yugyogeshpawar@gmail.com"
+                  >
+                    <span>Mail</span>
                   </a>
                 </div>
               </div>
@@ -72,19 +74,24 @@ const About = () => {
           <div className="col-lg-4 m-15px-tb">
             <ul className="aducation-box">
               <li>
-                <span>2010-2012</span>
-                <h6>Graphic Designer</h6>
-                <p>International Design Institute</p>
+                <span>2020-2024</span>
+                <h6>Bachelor in Computer Applications</h6>
+                <p>Chhindwara University</p>
               </li>
               <li>
-                <span>2010-2012</span>
-                <h6>Web Development</h6>
-                <p>International Design Institute</p>
+                <span>2017-2020</span>
+                <h6>Diploma in Computer Applications</h6>
+                <p>Chhindwara University</p>
               </li>
               <li>
-                <span>2010-2012</span>
-                <h6>Search Engine Optimization</h6>
-                <p>International Design Institute</p>
+                <span>2017</span>
+                <h6>12th MP Board</h6>
+                <p>Govt Higher Secondary School Mahalpur</p>
+              </li>
+              <li>
+                <span>2015</span>
+                <h6>10th MP Board</h6>
+                <p>Govt. High School Mahalpur</p>
               </li>
             </ul>
           </div>
@@ -92,13 +99,15 @@ const About = () => {
             <div className="skills-box">
               <h3>My skills</h3>
               <p>
-                {`I'm`} a Freelancer Front-end Developer with over 3 years of
-                experience. I code and create web elements for amazing people
-                around the world. I like work with new people. New people new
-                Experiences.
+                {`I'm`} a DevOps Engineer with over 4 years of experience. I
+                have a passion for Kubernetes, CI/CD pipelines, and automation.
+                I started my journey as a Blockchain Developer, but gradually
+                shifted to DevOps as I was always looking for new opportunities
+                to improve and enhance my skills. Currently, I am working with
+                Versai Technologies.
               </p>
               <div className="skill-lt">
-                <h6>HTML5</h6>
+                <h6>Kubernetes</h6>
                 <div className="skill-bar">
                   <div className="skill-bar-in" style={{ width: "92%" }}>
                     <span data-toggle="tooltip" title="92%" />
@@ -107,16 +116,25 @@ const About = () => {
               </div>
               {/* /skill */}
               <div className="skill-lt">
-                <h6>WordPress</h6>
+                <h6>CI/CD</h6>
                 <div className="skill-bar">
-                  <div className="skill-bar-in" style={{ width: "72%" }}>
+                  <div className="skill-bar-in" style={{ width: "95%" }}>
                     <span data-toggle="tooltip" title="72%" />
                   </div>
                 </div>
               </div>
               {/* /skill */}
+
               <div className="skill-lt">
-                <h6>Magento</h6>
+                <h6>Python</h6>
+                <div className="skill-bar">
+                  <div className="skill-bar-in" style={{ width: "88%" }}>
+                    <span data-toggle="tooltip" title="88%" />
+                  </div>
+                </div>
+              </div>
+              <div className="skill-lt">
+                <h6>Terraform</h6>
                 <div className="skill-bar">
                   <div className="skill-bar-in" style={{ width: "86%" }}>
                     <span data-toggle="tooltip" title="86%" />
@@ -125,14 +143,21 @@ const About = () => {
               </div>
               {/* /skill */}
               <div className="skill-lt">
-                <h6>UI/UX</h6>
+                <h6>Go Lang</h6>
                 <div className="skill-bar">
-                  <div className="skill-bar-in" style={{ width: "88%" }}>
-                    <span data-toggle="tooltip" title="88%" />
+                  <div className="skill-bar-in" style={{ width: "50%" }}>
+                    <span data-toggle="tooltip" title="86%" />
                   </div>
                 </div>
               </div>
-              {/* /skill */}
+              <div className="skill-lt">
+                <h6>Git</h6>
+                <div className="skill-bar">
+                  <div className="skill-bar-in" style={{ width: "95%" }}>
+                    <span data-toggle="tooltip" title="86%" />
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>

@@ -22,7 +22,7 @@ const Index = () => {
               <div className="col-lg-6">
                 <div className="type-box">
                   <h6>Hello, I am</h6>
-                  <h1 className="font-alt">Sergio Gadot</h1>
+                  <h1 className="font-alt">Yogesh Pathe</h1>
                   <p className="lead">
                     I Am Passionate <TypingAnimation />
                   </p>
@@ -32,8 +32,8 @@ const Index = () => {
                     services and online stores.
                   </p>
                   <div className="btn-bar">
-                    <a className="px-btn px-btn-theme" href="#">
-                      Donwload CV
+                    <a className="px-btn px-btn-theme" href="/yogesh-resume.pdf" target="_blank">
+                      Download CV
                     </a>
                   </div>
                 </div>
