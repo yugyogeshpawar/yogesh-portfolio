@@ -68,16 +68,16 @@ const Contact = () => {
                 <li className="media">
                   <i className="ti-map" />
                   <span className="media-body">
-                    123 Stree New York City , United States Of America 750065.
+                    Chhindwara, Madhya Pradesh, India
                   </span>
                 </li>
                 <li className="media">
                   <i className="ti-email" />
-                  <span className="media-body">support@domain.com</span>
+                  <span className="media-body">yugyogeshpawar@gmail.com</span>
                 </li>
                 <li className="media">
                   <i className="ti-mobile" />
-                  <span className="media-body">+044 9696 9696 3636</span>
+                  <span className="media-body">+91 7000 42 60 94</span>
                 </li>
               </ul>
             </div>
@@ -191,7 +191,7 @@ const Contact = () => {
               <div className="embed-responsive embed-responsive-21by9">
                 <iframe
                   className="embed-responsive-item"
-                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3151.840107317064!2d144.955925!3d-37.817214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1520156366883"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59167.90167624475!2d78.89593600596523!3d22.049830574353603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd5661c6e7c12e5%3A0xa2cc3285d16896cf!2sChhindwara%2C%20Madhya%20Pradesh%20480001!5e0!3m2!1sen!2sin!4v1719430341018!5m2!1sen!2sin"
                   allowFullScreen=""
                 />
               </div>

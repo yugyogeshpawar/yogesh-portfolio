@@ -175,15 +175,18 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
+                  <h6>DevOps Engineer ( Kubernetes, CI/CD ) </h6>
+                  <label>Versai Technologies | Jan 2022 - Present</label>
                   <div className="rb-time">Full Time</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                    Lead the design and deployment of enterprise Kubernetes
+                    clusters supporting production, development, and testing
+                    environments, achieving 99.9% uptime. Implemented automated
+                    CI/CD pipelines using GitHub Actions, and Azure DevOps to
+                    streamline deployment processes, resulting in a 50%
+                    reduction in deployment times. Managed container
+                    orchestration using Kubernetes and Docker, enhancing
+                    application portability and scaling.
                   </p>
                 </div>
               </div>
@@ -198,15 +201,21 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
+                  <h6>DevOps Engineer ( Kubernetes, CI/CD, Terraform ) </h6>
+                  <label>Gaura Web Technologies | Jan 2019 - Jan 2022</label>
                   <div className="rb-time">Full Time</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                    Leveraged Terraform to automate the provisioning and
+                    management of cloud infrastructure, ensuring efficient,
+                    scalable, and repeatable deployment processes. Implemented
+                    automated CI/CD pipelines using GitHub Actions, and Azure
+                    DevOps to streamline deployment processes, resulting in a
+                    50% reduction in deployment times. Orchestrated the
+                    deployment processes for blockchain-based applications using
+                    Docker and Kubernetes, optimising them for high availability
+                    and robustness. Implemented C I/ C D pipelines specifically
+                    tailored for these applications, ensuring seamless and
+                    automated updates and management.
                   </p>
                 </div>
               </div>
@@ -221,15 +230,13 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
+                  <h6>Blockchain Developer</h6>
+                  <label>Gaura Web Technologies | Jan 2019 - Jan 2020</label>
                   <div className="rb-time">Full Time</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                    I have 1 years of experience in web development. which
+                    includes HTML, CSS, Javascript, React, Node.js. in
+                    blockchain we use web3.js, ethereum and solidity.
                   </p>
                 </div>
               </div>

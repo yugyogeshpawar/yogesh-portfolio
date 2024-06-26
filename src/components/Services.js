@@ -20,10 +20,10 @@ const Services = () => {
             <div className="feature-box-01 media">
               <i className="icon theme-bg icon-mobile" />
               <div className="feature-content media-body">
-                <h5>Web Design</h5>
+                <h5>Kubernetes</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Application Deployment using Kubernetes, CI/CD pipelines, and automation tools.
+
                 </p>
               </div>
             </div>
@@ -32,10 +32,9 @@ const Services = () => {
             <div className="feature-box-01 media">
               <i className="icon theme-bg icon-desktop" />
               <div className="feature-content media-body">
-                <h5>Web Development</h5>
+                <h5>DevOps</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  I am a DevOps Engineer with a passion for Kubernetes, CI/CD pipelines, and automation with azure devops.
                 </p>
               </div>
             </div>
@@ -44,10 +43,9 @@ const Services = () => {
             <div className="feature-box-01 media">
               <i className="icon theme-bg icon-target" />
               <div className="feature-content media-body">
-                <h5>SEO Marketing</h5>
+                <h5>Programming</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  I do programming using Python, Java, React and Blockchain.
                 </p>
               </div>
             </div>
@@ -56,10 +54,10 @@ const Services = () => {
             <div className="feature-box-01 media">
               <i className="icon theme-bg icon-mobile" />
               <div className="feature-content media-body">
-                <h5>Web Design</h5>
+                <h5>Web Development</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  I have 1 years of experience in web development. which includes HTML, CSS, Javascript, React, Node.js.
+                  in blockchain we use web3.js, ethereum and solidity.
                 </p>
               </div>
             </div>
@@ -68,10 +66,9 @@ const Services = () => {
             <div className="feature-box-01 media">
               <i className="icon theme-bg icon-desktop" />
               <div className="feature-content media-body">
-                <h5>Web Development</h5>
+                <h5>Monitoring</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  As a DevOps Engineer, I am well versed in monitoring tools. I use Prometheus and Grafana.
                 </p>
               </div>
             </div>
@@ -80,10 +77,9 @@ const Services = () => {
             <div className="feature-box-01 media">
               <i className="icon theme-bg icon-target" />
               <div className="feature-content media-body">
-                <h5>SEO Marketing</h5>
+                <h5>ArgoCD Deployment</h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  I know how to use ArgoCD to deploy applications. and I have 2 years of experience in ArgoCD.
                 </p>
               </div>
             </div>
