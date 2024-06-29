@@ -14,4 +14,4 @@ steps:
     WebAppName: 'yogesh-web'
     packageForLinux: '$(System.DefaultWorkingDirectory)/'
     RuntimeStack: 'NODE|16-lts'
-    StartupCommand: 'npm run start'
+    StartupCommand: 'npm install && npm run build && npm run start'
