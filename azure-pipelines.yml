@@ -1,0 +1,17 @@
+
+trigger:
+- sergio
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- task: AzureRmWebAppDeployment@4
+  inputs:
+    ConnectionType: 'AzureRM'
+    azureSubscription: 'ankush2'
+    appType: 'webAppLinux'
+    WebAppName: 'yogesh-web'
+    packageForLinux: '$(System.DefaultWorkingDirectory)/'
+    RuntimeStack: 'NODE|16-lts'
+    StartupCommand: 'npm run start'
